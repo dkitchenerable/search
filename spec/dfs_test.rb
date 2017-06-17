@@ -1,4 +1,4 @@
-require_relative '../../graph/graph.rb'
+require_relative '../graph/graph.rb'
 require_relative '../searcher.rb'
 
 describe Dfs do

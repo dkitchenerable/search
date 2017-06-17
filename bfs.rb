@@ -1,4 +1,5 @@
-require '../data_structures/queue.rb'
+require_relative 'data_structures/queue.rb'
+
 class Bfs
   def initialize(graph)
     @graph = graph
